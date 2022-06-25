@@ -1,0 +1,12 @@
+file 10361909248
+percpu 315360
+inactive_file 8666644480
+active_file 1695264768
+slab_reclaimable 194324760
+slab 194324760
+fred1 1100000
+flinstone1234 123456789
+9876 spiderman
+96 spiderman and his 999 friends 
+96 spiderman and his 999 friends and public enemy 1000
+961234 spiderman and his 9999999999 friends and public enemy 100012341234
